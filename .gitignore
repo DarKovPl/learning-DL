@@ -135,3 +135,4 @@ pyvenv.cfg
 share/
 etc/
 models/
+logs/
